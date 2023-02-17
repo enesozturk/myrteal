@@ -15,6 +15,49 @@
   },
   "tokenColors": [
     {
+      "name": "TS primitive/builtin types",
+      "scope": "support.type.primitive.ts,support.type.builtin.ts,support.type.primitive.tsx,support.type.builtin.tsx",
+      "settings": {
+        "foreground": "#4e9288"
+      }
+    },
+    {
+      "name": "TS type definition",
+      "scope": [
+        "storage.type.type.tsx",
+        "meta.type.declaration.tsx",
+        "source.tsx"
+      ],
+      "settings": {
+        "foreground": "#617870"
+      }
+    },
+    {
+      "name": "TS type name",
+      "scope": [
+        "entity.name.type.alias.tsx",
+        "meta.type.declaration.tsx",
+        "source.tsx"
+      ],
+      "settings": {
+        "foreground": "#4ea283"
+      }
+    },
+    {
+      "name": "React Component",
+      "scope": [
+        "entity.name.function.tsx",
+        "variable.other.constant.tsx",
+        "meta.definition.variable.tsx",
+        "meta.var-single-variable.expr.tsx",
+        "meta.var.expr.tsx",
+        "source.tsx"
+      ],
+      "settings": {
+        "foreground": "#327e85"
+      }
+    },
+    {
       "name": "Support.Class",
       "scope": [
         "support.class",
@@ -23,7 +66,7 @@
         "support.variable.property.dom"
       ],
       "settings": {
-        "foreground": "#21879f" // <Field />
+        "foreground": "#3c8393" // <Field />
       }
     },
     {
@@ -654,13 +697,6 @@
       }
     },
     {
-      "name": "Type Name",
-      "scope": "entity.name.type",
-      "settings": {
-        "foreground": "#7a8eab"
-      }
-    },
-    {
       "name": "Keyword Control",
       "scope": "keyword.control",
       "settings": {
@@ -1269,13 +1305,6 @@
       }
     },
     {
-      "name": "ts primitive/builtin types",
-      "scope": "support.type.primitive.ts,support.type.builtin.ts,support.type.primitive.tsx,support.type.builtin.tsx",
-      "settings": {
-        "foreground": "#526e99"
-      }
-    },
-    {
       "name": "block scope",
       "scope": "block.scope.end,block.scope.begin",
       "settings": {
@@ -1836,7 +1865,7 @@
     "editor.background": "#171717",
     "editor.foreground": "#a1a1a1",
     "editorLineNumber.foreground": "#303030",
-    "editorCursor.foreground": "#3d819b",
+    "editorCursor.foreground": "#588190",
     "editorCursor.background": "#8a8a8a",
     "editor.selectionBackground": "#55606632",
     "editor.inactiveSelectionBackground": "#28282883",
