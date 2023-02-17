@@ -1,0 +1,22 @@
+{
+  "name": "enes-dark",
+  "displayName": "enes-dark",
+  "description": "Dark Theme by Enes",
+  "version": "0.0.1",
+  "publisher": "enesozturk",
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "enes-dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/enes-dark-color-theme.json"
+      }
+    ]
+  }
+}
