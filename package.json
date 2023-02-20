@@ -1,7 +1,7 @@
 {
-  "name": "enes-dark",
-  "displayName": "enes-dark",
-  "description": "Dark Theme by Enes",
+"name": "myrteal",
+  "displayName": "Myrteal",
+  "description": "Dark theme with Myrtle and Teal colors by Enes",
   "version": "0.2.0",
   "publisher": "enesozturk",
   "engines": {
@@ -13,9 +13,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "enes-dark",
+        "label": "myrteal",
         "uiTheme": "vs-dark",
-        "path": "./themes/enes-dark-color-theme.json"
+        "path": "./themes/color-theme.json"
       }
     ]
   }
