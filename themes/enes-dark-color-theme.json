@@ -15,6 +15,34 @@
   },
   "tokenColors": [
     {
+      "name": "Tags",
+      "scope": [
+        "meta.tag.without-attributes.ts.tsx",
+        "meta.tag.without-attributes.js.jsx",
+        "punctuation.definition.tag.begin.ts.tsx",
+        "punctuation.definition.tag.begin.js.jsx",
+        "meta.tag.ts.tsx",
+        "meta.tag.js.jsx",
+        "meta.jsx.children.ts.tsx",
+        "meta.jsx.children.js.jsx",
+        "meta.block.ts.tsx",
+        "meta.arrow.ts.tsx",
+        "meta.arrow.js.jsx",
+        "meta.var.expr.ts.tsx",
+        "meta.var.expr.js.jsx"
+      ],
+      "settings": {
+        "foreground": "#464646"
+      }
+    },
+    {
+      "name": "Default Functions",
+      "scope": "support.function,support.function.js",
+      "settings": {
+        "foreground": "#35ae90"
+      }
+    },
+    {
       "name": "TS primitive/builtin types",
       "scope": "support.type.primitive.ts,support.type.builtin.ts,support.type.primitive.tsx,support.type.builtin.tsx",
       "settings": {
@@ -24,8 +52,13 @@
     {
       "name": "TS type definition",
       "scope": [
+        "storage.type.type.ts",
         "storage.type.type.tsx",
+        "storage.type.type.js.jsx",
+        "meta.type.declaration.ts",
         "meta.type.declaration.tsx",
+        "meta.type.declaration.js.jsx",
+        "meta.type.parameters.js.jsx",
         "source.tsx"
       ],
       "settings": {
@@ -37,6 +70,8 @@
       "scope": [
         "entity.name.type.alias.tsx",
         "meta.type.declaration.tsx",
+        "entity.name.type.alias.js.jsx",
+        "meta.type.declaration.js.jsx",
         "source.tsx"
       ],
       "settings": {
@@ -50,6 +85,10 @@
         "variable.other.constant.tsx",
         "meta.definition.variable.tsx",
         "meta.var-single-variable.expr.tsx",
+        "entity.name.type.js.jsx",
+        "meta.type.annotation.js.jsx",
+        "meta.var-single-variable.expr.js.jsx",
+        "meta.var.expr.js.jsx",
         "meta.var.expr.tsx",
         "source.tsx"
       ],
@@ -1764,7 +1803,7 @@
       "scope": "entity.other.attribute-name.js,entity.other.attribute-name.ts,entity.other.attribute-name.jsx,entity.other.attribute-name.tsx,variable.parameter,variable.language.super",
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#70b4cf"
+        "foreground": "#47a99c"
       }
     },
     {
