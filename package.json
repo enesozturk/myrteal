@@ -2,7 +2,7 @@
   "name": "enes-dark",
   "displayName": "enes-dark",
   "description": "Dark Theme by Enes",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "publisher": "enesozturk",
   "engines": {
     "vscode": "^1.75.0"
