@@ -1,16 +1,16 @@
-# ns-dark README
+# Myrteal
 
-## Working with Markdown
+Dark theme with Myrtle and Teal colors for VS Code by [Enes](https://twitter.com/enesozt_).
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+### Features
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+- Eye friendly. Low color details for unnecessary keywords, variables, operators, etc.
+- React, TypeScript, and JavaScript focused. (Can be used for other languages but might need to be optimized.)
 
-## For more information
+## Screenshots
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+![myrteal-screenshot](./screenshot.jpg)
 
-**Enjoy!**
+## Feedbacks
+
+Reach [@enesozt\_](https://twitter.com/enesozt_)
