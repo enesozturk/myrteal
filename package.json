@@ -1,7 +1,12 @@
 {
-"name": "myrteal",
+  "name": "myrteal",
   "displayName": "Myrteal",
   "description": "Dark theme with Myrtle and Teal colors by Enes",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/enesozturk/myrteal"
+  },
+  "license": "MIT",
   "version": "0.2.0",
   "publisher": "enesozturk",
   "engines": {
