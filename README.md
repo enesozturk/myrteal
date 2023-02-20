@@ -9,7 +9,7 @@ Dark theme with Myrtle and Teal colors for VS Code by [Enes](https://twitter.com
 
 ## Screenshots
 
-![myrteal-screenshot](./screenshot.jpg)
+![myrteal-screenshot](https://raw.githubusercontent.com/enesozturk/myrteal/main/screenshot.jpg?token=GHSAT0AAAAAAB3FUF6JYYSXOJ3GG6TCDZW6Y7T5KIA)
 
 ## Feedbacks
 
