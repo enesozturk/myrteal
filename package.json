@@ -23,5 +23,6 @@
         "path": "./themes/color-theme.json"
       }
     ]
-  }
+  },
+  "icon": "./icon.png"
 }
