@@ -1,7 +1,7 @@
 {
   "name": "myrteal",
   "displayName": "Myrteal",
-  "description": "Dark theme with Myrtle and Teal colors by Enes",
+  "description": "Myrtle and teal colored, low contrast dark theme for VS Code",
   "repository": {
     "type": "git",
     "url": "https://github.com/enesozturk/myrteal"
@@ -18,11 +18,11 @@
   "contributes": {
     "themes": [
       {
-        "label": "myrteal",
+        "label": "Myrteal",
         "uiTheme": "vs-dark",
         "path": "./themes/color-theme.json"
       }
     ]
   },
-  "icon": "icon.png"
+  "icon": "icon.jpg"
 }

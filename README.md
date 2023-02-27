@@ -1,15 +1,13 @@
 # Myrteal
 
-Dark theme with Myrtle and Teal colors for VS Code by [Enes](https://twitter.com/enesozt_).
+Myrtle and teal colored, low contrast dark theme for VS Code.
 
-### Features
-
-- Eye friendly. Low color details for unnecessary keywords, variables, operators, etc.
-- React, TypeScript, and JavaScript focused. (Can be used for other languages but might need to be optimized.)
+- Eye friendly with low color details for unnecessary keywords, variables, operators, etc.
+- React, TypeScript, and JavaScript focused. (Other languages might need to be optimized)
 
 ## Screenshots
 
-![myrteal-screenshot](https://raw.githubusercontent.com/enesozturk/myrteal/main/screenshot.jpg?token=GHSAT0AAAAAAB3FUF6JYYSXOJ3GG6TCDZW6Y7T5KIA)
+![myrteal-screenshot](https://raw.githubusercontent.com/enesozturk/myrteal/main/screenshot.jpg?token=GHSAT0AAAAAAB3FUF6IA4ZKKUZVLEGOPEOAY747X4A)
 
 ## Feedbacks
 
