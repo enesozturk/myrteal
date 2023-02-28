@@ -7,7 +7,7 @@
     "url": "https://github.com/enesozturk/myrteal"
   },
   "license": "MIT",
-  "version": "0.6.0",
+  "version": "0.7.0",
   "publisher": "enesozturk",
   "engines": {
     "vscode": "^1.75.0"
