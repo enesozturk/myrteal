@@ -15,6 +15,9 @@
     "parameter": {
       "foreground": "#3f9489",
       "italic": true
+    },
+    "property": {
+      "foreground": "#b7b7b7"
     }
   },
   "tokenColors": [
@@ -434,7 +437,7 @@
       "name": "js variable readwrite",
       "scope": "variable.other.readwrite,meta.object-literal.key,support.variable.property,support.variable.object.process,support.variable.object.node",
       "settings": {
-        "foreground": "#b2b2b2"
+        "foreground": "#9d9d9d"
       }
     },
     {
@@ -1807,7 +1810,7 @@
       "scope": "entity.other.attribute-name.js,entity.other.attribute-name.ts,entity.other.attribute-name.jsx,entity.other.attribute-name.tsx,variable.parameter,variable.language.super",
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#8a8a8a"
+        "foreground": "#999999"
       }
     },
     {
