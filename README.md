@@ -7,7 +7,7 @@ Myrtle and teal colored, low contrast dark theme for VS Code.
 
 ## Screenshots
 
-![myrteal-screenshot](https://raw.githubusercontent.com/enesozturk/myrteal/main/screenshot.jpg?token=GHSAT0AAAAAAB3FUF6IA4ZKKUZVLEGOPEOAY747X4A)
+![myrteal-screenshot](https://ozturkenes.com/images/myrteal-screenshot.jpg)
 
 ## Feedbacks
 
